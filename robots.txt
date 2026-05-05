@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garun-optim.github.io/snippets-61ywj6/sitemap.xml
